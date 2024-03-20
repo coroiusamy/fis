@@ -13,6 +13,7 @@ public class Student {
         this.lastName = lastName;
         this.age = age;
         this.meanGrade = meanGrade;
+        System.out.println("test m-power");
     }
 
     @Override
